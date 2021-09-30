@@ -8,5 +8,7 @@
 </h1>
 
 
-This repository was created in order to share a simple blog created using React, Gatsby, StyleComponents and Netlify to deploy the application.
+This repository was created in order to share a simple example blog created using React, Gatsby, StyleComponents and Netlify to deploy the application.
 All these codes was learned on an Udemy course, but i did some changes.
+
+[Access the blog here](https://hamoncordova-blog.netlify.app/)
